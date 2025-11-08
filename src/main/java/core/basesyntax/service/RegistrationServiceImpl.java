@@ -36,4 +36,3 @@ public class RegistrationServiceImpl implements RegistrationService {
         return storageDao.add(user);
     }
 }
-
